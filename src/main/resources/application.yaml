@@ -20,3 +20,5 @@ eureka:
     fetchRegistry: true
 new:
   property: hello
+great:
+  property: true
