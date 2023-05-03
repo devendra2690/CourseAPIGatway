@@ -18,3 +18,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka
     registerWithEureka: false
     fetchRegistry: true
+great:
+  property: true
